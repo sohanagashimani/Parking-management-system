@@ -1,4 +1,2 @@
 # Parking-management-system
-# Parking-management-system
-# Parking-management-system
-# Parking-management-system
+Used Linked lists and queues.
